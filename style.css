@@ -443,8 +443,11 @@ li{
         flex-direction: column;
     }
     .left-area{
-        width: 350px;
+        width: 90%;
         height: auto;
+    }
+    .left-area img{
+        width: 100%;
     }
     .left-content{
         display: none;
@@ -611,8 +614,11 @@ footer{
         flex-direction: column;
     }
     .left-area{
-        width: 300px;
+        width: 340px;
         height: auto;
+    }
+    .left-area img{
+        width: 90%;
     }
     .left-content{
         display: none;
