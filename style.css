@@ -250,7 +250,7 @@ ul {
     justify-content: center;
 }
 .left-area{
-    width: 35%;
+    width: 350px;
     height: 100%;
     /* background-color: pink; */
     text-align: center;
@@ -443,7 +443,7 @@ li{
         flex-direction: column;
     }
     .left-area{
-        width: 100%;
+        width: 300px;
         height: auto;
     }
     .left-content{
@@ -611,7 +611,7 @@ footer{
         flex-direction: column;
     }
     .left-area{
-        width: 90%;
+        width: 300px;
         height: auto;
     }
     .left-content{
