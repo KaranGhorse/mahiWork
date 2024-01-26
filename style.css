@@ -250,7 +250,7 @@ ul {
     justify-content: center;
 }
 .left-area{
-    width: 350px;
+    width: 35%;
     height: 100%;
     /* background-color: pink; */
     text-align: center;
@@ -443,7 +443,7 @@ li{
         flex-direction: column;
     }
     .left-area{
-        width: 300px;
+        width: 350px;
         height: auto;
     }
     .left-content{
